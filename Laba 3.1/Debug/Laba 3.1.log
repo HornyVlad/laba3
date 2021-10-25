@@ -1,0 +1,7 @@
+﻿  Source1.cpp
+C:\Users\vladk\source\repos\Laba 3.1\Laba 3.1\Source1.cpp(136,6): warning C4101: razn: неиспользованная локальная переменная
+C:\Users\vladk\source\repos\Laba 3.1\Laba 3.1\Source1.cpp(188,17): warning C4101: max: неиспользованная локальная переменная
+C:\Users\vladk\source\repos\Laba 3.1\Laba 3.1\Source1.cpp(188,33): warning C4101: min: неиспользованная локальная переменная
+C:\Users\vladk\source\repos\Laba 3.1\Laba 3.1\Source1.cpp(188,24): warning C4101: g: неиспользованная локальная переменная
+C:\Users\vladk\source\repos\Laba 3.1\Laba 3.1\Source1.cpp(188,38): warning C4101: razn: неиспользованная локальная переменная
+  Laba 3.1.vcxproj -> C:\Users\vladk\source\repos\Laba 3.1\Debug\Laba 3.1.exe
